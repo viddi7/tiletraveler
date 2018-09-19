@@ -2,7 +2,7 @@ currentX=1
 currentY=1
 
 while True:
-    #Hvert er hægt að fara m
+    #Hvert er hægt að fara
     if currentX == 1 and currentY == 1:
         print("You can go North")
     elif currentX == 1 and currentY == 2:
